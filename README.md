@@ -22,7 +22,11 @@ This will help use generate some new columns from existing ones.
 
 # Real-Data based Store Sales Dashboard
 
+## 1. Dashboard
+<img src="Dashboard.png">
 
+## 2. Dashboard with Filter
+<img src="Dashboard with Filter.png">
 
 <br>
 
